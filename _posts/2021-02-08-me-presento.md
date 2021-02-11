@@ -1,5 +1,8 @@
 ---
 title: Me presento, soy Ana
+header:
+  teaser: laptop-notebook.jpeg
+  og_image: page-header-teaser.png
 category: 
   - vivencia
 tags: 
@@ -8,10 +11,6 @@ tags:
   - aplicaciones android
   - machine learning
 ---
-
-{% capture fig_img %}
-![alt]({{ site.url }}{{ site.baseurl }}/images/laptop-notebook.jpeg)
-{% endcapture %}
 
 Como primer post en mi blog, ¿qué mejor que presentarme?
 
