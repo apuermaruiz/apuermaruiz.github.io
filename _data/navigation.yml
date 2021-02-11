@@ -6,5 +6,7 @@ main:
     url: /year-archive/
   - title: "Colecciones"
     url: /collection-archive/
+  - title: "Categorias"
+    url: /category_archive/
   # - title: "Sitemap"
   #   url: /sitemap/
