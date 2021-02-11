@@ -26,11 +26,11 @@ Este curso pertenece al [Certificado Profesional de Data Science](https://www.co
 
 Después de completarlos, volví de nuevo a Andrew Ng, esta vez inscribiéndome en la [Especialización de Deep Learning](https://www.coursera.org/specializations/deep-learning) de la empresa **deeplearning.ai**. Del mismo modo que el curso de *Machine Learning*, en los cinco cursos de la especialización explica tanto el concepto de cada modelo predictivo como su base matemática. 
 
-Tras esta especialización, estuve investigando que más podría aprender. Como ya había utilizado algo de `TensorFlow` y `Keras` en los cursos de *Deep Learning*, realicé el [Certificado Profesional de Desarrollador TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice) impartido por Laurence Moroney de parte de la misma empresa, **deeplearning.ai**. Terminé los cuatro cursos a un buen ritmo y, en mi opinión, me dieron una buena base de `Keras` y `Redes Neuronales`.
+Tras esta especialización, estuve investigando que más podría aprender. Como ya había utilizado `TensorFlow` y `Keras` en los cursos de *Deep Learning*, realicé el [Certificado Profesional de Desarrollador TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice) impartido por Laurence Moroney de parte de la misma empresa, **deeplearning.ai**. Terminé los cuatro cursos a un buen ritmo y, en mi opinión, me dieron una buena base de `Redes Neuronales` en lenguaje `Python`.
 
 Todo este proceso me lleva a la actualidad. En este momento, estoy intentando aplicar lo aprendido en estos cursos y especializaciones mediante el desarrollo de algunos **proyectos propios** y participando en algunas competiciones **Kaggle**. Esta plataforma es una comunidad en línea de científicos de datos y profesionales del aprendizaje automático que te ofrece la posibilidad de acceder a bases de datos reales y realizar el mejor model predictivo en función de estas. No se me ocurre una forma mejor para demostrar lo que he ido aprendido y para mejorar mis habilidades.  
 
-Añun me queda mucho camino por delante, pero ganas no me faltan. Estoy deseando ver pasar los años y comparar todo lo que haya aprendido con mi punto de partida. 
+Aún me queda mucho camino por delante, pero ganas no me faltan. Estoy deseando ver pasar los años y comparar todo lo que haya aprendido con lo que sabía en mi punto de partida. 
 
 ---
 
