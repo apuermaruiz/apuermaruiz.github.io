@@ -11,7 +11,7 @@ tag:
 ---
 
 {% capture fig_img %}
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/code-laptop-cactus.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/code-laptop-cactus.png)
 {% endcapture %}
 
 En el [post anterior](/2020-02-08-me-presento.md) escribí que un compañero me habló por primera vez del término `Machine Learning` el año pasado. Él es doctor en informática, de hecho su tesis trata este tema, y actualmente trabaja en una empresa aplicando esos conocimientos sobre `Aprendizaje Automático`.
