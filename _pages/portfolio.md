@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/
-title: portfolio
+title: Portfolio
 ---
 
 ### Web Personal en Github  
