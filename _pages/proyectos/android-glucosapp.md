@@ -1,8 +1,7 @@
 ---
-permalink: /projects/android-glucosapp/
+permalink: /proyectos/android-glucosapp/
+title: Aplicación GlucosApp en Android
 ---
-
-## Portfolio / Aplicación GlucosApp en Android
 
 * Realizado en `2017`
 * Tecnologías: `Android Studio` `Java` `XML`
