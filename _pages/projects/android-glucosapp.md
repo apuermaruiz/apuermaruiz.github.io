@@ -1,5 +1,5 @@
 ---
-layout: page
+permalink: /projects/android-glucosapp/
 ---
 
 ## Portfolio / Aplicación GlucosApp en Android
