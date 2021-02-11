@@ -4,6 +4,8 @@ main:
     url: https://apuerma.github.io/about/
   - title: "Posts"
     url: /year-archive/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Colecciones"
     url: /collection-archive/
   - title: "Categorias"
