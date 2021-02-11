@@ -11,22 +11,24 @@ title: Sobre mi
 
 ### <> Lenguajes de Programación
 
-[Python / Matlab Octave / Java / SQL Database / CSS / PHP / HTML / JavaScript] {: .notice--info}
-
+```
+Python / Matlab Octave / Java / SQL Database /
+HTML / CSS / PHP / JavaScript
+```
 
 ### 🤖 Data Science / Machine Learning
 
-```markdown
-Data Science / Machine Learning / Deep Learning / Recurrent Neural Network / 
-Convolutional NeuralNetworks / Natural Language Processing / Keras / 
-TensorFlow / Tableau
+```
+Data Science / Machine Learning / Deep Learning / 
+Keras / TensorFlow / Tableau
 ```
 
 ### 🖇️ Otros
 
-```markdown
-Notion / Agile / Github / WordPress / Android Studio / Visual Studio / 
-Netbeans / Microsoft Office (Word, Excel y PowerPoint) / Redes sociales
+```
+Notion / Agile / Github / WordPress / 
+Android Studio / Visual Studio / Netbeans / 
+Microsoft Office (Word, Excel y PowerPoint) / Redes sociales
 ```
 
 <br/>
