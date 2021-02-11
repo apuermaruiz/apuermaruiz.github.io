@@ -1,5 +1,5 @@
 ---
-layout: page
+permalink: /projects/web-glucosapp/
 ---
 
 ## Portfolio / Web de GlucosApp
