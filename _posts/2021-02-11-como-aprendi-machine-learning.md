@@ -10,6 +10,10 @@ tag:
   - coursera
 ---
 
+{% capture fig_img %}
+![code-latop-cactus](code-laptop-cactus.png)
+{% endcapture %}
+
 En el [post anterior](/2020-02-08-me-presento.md) escribí que un compañero me habló por primera vez del término `Machine Learning` el año pasado. Él es doctor en informática, de hecho su tesis trata este tema, y actualmente trabaja en una empresa aplicando esos conocimientos sobre `Aprendizaje Automático`.
 
 Le pregunté sobre fuentes o cursos donde aprender sobre ello y me recomendó uno que ofrece Coursera: el curso de [Machine Learning](https://www.coursera.org/learn/machine-learning) de Andrew Ng de la universidad de Stanford. 
@@ -27,4 +31,4 @@ Después de completarlos, volví de nuevo a Andrew Ng, esta vez inscribiéndome 
 ---
 Gracias por leer hasta aquí y, ¡nos vemos en el siguiente post!
 
-![code-latop-cactus](code-laptop-cactus.png)
+
