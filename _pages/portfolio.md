@@ -3,8 +3,6 @@ permalink: /portfolio/
 
 ---
 
-## Portfolio
-
 ### Web Personal en Github  
 
 *2021* 
