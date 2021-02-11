@@ -1,5 +1,5 @@
 ---
-permalink: /proyectos/android-glucosapp/
+permalink: /portfolio/android-glucosapp/
 title: Aplicación GlucosApp en Android
 ---
 
