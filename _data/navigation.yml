@@ -6,9 +6,9 @@ main:
     url: /year-archive/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Colecciones"
-    url: /collection-archive/
+  # - title: "Colecciones"
+  #   url: /collection-archive/
   - title: "Categorias"
     url: /category-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Sitemap"
+    url: /sitemap/
