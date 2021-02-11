@@ -1,5 +1,5 @@
 ---
-layout: page
+permalink: /projects/web-puermacorp/
 ---
 
 ## Portfolio / Web de PuermaCorp
