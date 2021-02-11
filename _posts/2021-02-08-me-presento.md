@@ -1,7 +1,7 @@
 ---
 title: Me presento, soy Ana
 category: 
-  - historia
+  - vivencia
 tags: 
   - ingeniera
   - desarrollo web
