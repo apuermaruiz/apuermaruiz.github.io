@@ -1,6 +1,6 @@
 ---
-permalink: /portfolio/
-title: Portfolio
+permalink: /proyectos/
+title: Proyectos
 ---
 
 ### Web Personal en Github  
