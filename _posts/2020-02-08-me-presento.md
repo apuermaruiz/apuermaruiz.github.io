@@ -1,6 +1,3 @@
----
-
----
 
 # Me presento, soy Ana
 
