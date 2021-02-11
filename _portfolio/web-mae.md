@@ -1,5 +1,5 @@
 ---
-permalink: /proyectos/web-mae/
+permalink: /portfolio/web-mae/
 title: Web de Música Andaluza y Española
 ---
 
