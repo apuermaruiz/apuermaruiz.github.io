@@ -1,8 +1,7 @@
 ---
-permalink: /projects/web-mae/
+permalink: /proyectos/web-mae/
+title: Web de Música Andaluza y Española
 ---
-
-## Portfolio / Web de Música Andaluza y Española
 
 * Realizado en `2019`
 * Tecnologías: `WordPress` `Low Code`
