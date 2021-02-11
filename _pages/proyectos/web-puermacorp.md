@@ -1,8 +1,7 @@
 ---
-permalink: /projects/web-puermacorp/
+permalink: /proyectos/web-puermacorp/
+title: Web de PuermaCorp
 ---
-
-## Portfolio / Web de PuermaCorp
 
 * Realizado en `2019`
 * Tecnologías: `Editor Web` `Low Code`
