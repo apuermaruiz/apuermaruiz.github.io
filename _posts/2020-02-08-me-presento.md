@@ -1,10 +1,9 @@
 ---
 title: Me presento, soy Ana
 category: 
-  - presentación
+  - historia
 tags: 
   - ingeniera
-  - historia
   - desarrollo web
   - aplicaciones android
   - machine learning
