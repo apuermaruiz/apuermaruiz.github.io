@@ -1,9 +1,18 @@
-
-# Me presento, soy Ana
+---
+title: Me presento, soy Ana
+category: 
+  - presentación
+tags: 
+  - ingeniera
+  - historia
+  - desarrollo web
+  - aplicaciones android
+  - machine learning
+---
 
 Como primer post en mi blog, ¿qué mejor que presentarme?
 
-Hola, me llamo Ana Puerma y soy graduada en Ingeniería de Sonido e Imagen. 
+Hola, me llamo Ana Puerma y soy Ingeniera de Sonido e Imagen. 
 
 Durante la carrera tuve varias asignaturas de programación, en su mayoría, en `C++` y `Matlab`. Y, la verdad, me apasionó ese nuevo mundo. Por ello, tras graduarme en 2016, supe que tenía que enfocar mi **rumbo profesional hacia las líneas de código**. 
 
