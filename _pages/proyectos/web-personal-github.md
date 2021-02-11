@@ -4,7 +4,7 @@ title: Web-Blog Personal
 ---
 
 * Realizado en: `2021`
-* Tecnologías: `Github` `Github Pages` `Ruby` `Jekyll` `HTML`
+* Tecnologías: `Github` `Github Pages` `Ruby` `Jekyll` `HTML` `JavaScript`
 * Puerdes verlo aquí: [apuerma](https://apuerma.github.io)
 
 ## ¿De qué trata el proyecto?
@@ -20,7 +20,7 @@ Contiene las siguientes secciones:
 
 ### ¿Qué aprendí?
 
-- A utilizar la plantilla de [fastai](https://github.com/fastai/fast_template) para crear un blog.
+- A utilizar la plantilla de [minimal-mistakes](https://https://github.com/mmistakes/minimal-mistakes) para crear un sitio web-blog.
 - A gestionar un sitio web basado en `Ruby` y `Jekyll`.
 - A gestionar las páginas, subpáginas y posts dentro del sitio web.
 - A crear mi **marca personal**, definiendo el estilo, voz y tono del Blog.
