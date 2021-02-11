@@ -10,7 +10,7 @@ tags:
 ---
 
 {% capture fig_img %}
-![laptop-notebook](../images/laptop-notebook.jpeg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/laptop-notebook.jpeg)
 {% endcapture %}
 
 Como primer post en mi blog, ¿qué mejor que presentarme?
