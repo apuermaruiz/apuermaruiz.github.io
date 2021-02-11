@@ -12,10 +12,6 @@ tag:
   - coursera
 ---
 
-{% capture fig_img %}
-![alt](../images/code-laptop-cactus.png)
-{% endcapture %}
-
 En el [post anterior](/2020-02-08-me-presento.md) escribí que un compañero me habló por primera vez del término `Machine Learning` el año pasado. Él es doctor en informática, de hecho su tesis trata este tema, y actualmente trabaja en una empresa aplicando esos conocimientos sobre `Aprendizaje Automático`.
 
 Le pregunté sobre fuentes o cursos donde aprender sobre ello y me recomendó uno que ofrece Coursera: el curso de [Machine Learning](https://www.coursera.org/learn/machine-learning) de Andrew Ng de la universidad de Stanford. 
@@ -28,9 +24,8 @@ Este curso pertenece al [Certificado Profesional de Data Science](https://www.co
 
 Después de completarlos, volví de nuevo a Andrew Ng, esta vez inscribiéndome en la [Especialización de Deep Learning](https://www.coursera.org/specializations/deep-learning) de la empresa **deeplearning.ai**. Del mismo modo que el curso de *Machine Learning*, en los cinco cursos de la especialización explica tanto el concepto de cada modelo predictivo como su base matemática.
 
-
-
 ---
+
 Gracias por leer hasta aquí y, ¡nos vemos en el siguiente post!
 
 
