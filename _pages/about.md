@@ -11,9 +11,8 @@ title: Sobre mi
 
 ### <> Lenguajes de Programación
 
-```markdown
-Python / Matlab Octave / Java / SQL Database / CSS / PHP / HTML / JavaScript
-```
+[Python / Matlab Octave / Java / SQL Database / CSS / PHP / HTML / JavaScript] {: .notice--info}
+
 
 ### 🤖 Data Science / Machine Learning
 
