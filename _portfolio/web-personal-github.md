@@ -1,5 +1,5 @@
 ---
-permalink: /proyectos/web-personal-github/
+permalink: /portfolio/web-personal-github/
 title: Web-Blog Personal
 ---
 
