@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-
+title: Sobre mi
 ---
 
 ### Descarga aquí mi CV:
