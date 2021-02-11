@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "Entre Lineas de Código"
+title                    : "Entre Líneas de Código"
 title_separator          : "-"
 subtitle                 : "A Jekyll Theme" # site tagline that appears below site title in masthead
 name                     : "Ana Puerma"
