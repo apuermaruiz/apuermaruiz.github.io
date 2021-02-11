@@ -1,5 +1,5 @@
 ---
-permalink: /proyectos/web-puermacorp/
+permalink: /portfolio/web-puermacorp/
 title: Web de PuermaCorp
 ---
 
