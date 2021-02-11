@@ -1,5 +1,4 @@
 ---
-permalink: /proyectos/
 title: Proyectos
 ---
 
