@@ -1,5 +1,5 @@
 ---
-permalink: /projects/android-nutrenapp/
+permalink: /proyectos/android-nutrenapp/
 ---
 
 ## Portfolio / Aplicación NutrenApp en Android
