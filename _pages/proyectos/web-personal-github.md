@@ -1,8 +1,7 @@
 ---
-permalink: /projects/web-personal-github/
+permalink: /proyectos/web-personal-github/
+title: Web-Blog Personal
 ---
-
-## Portfolio / Web-Blog Personal
 
 * Realizado en: `2021`
 * Tecnologías: `Github` `Github Pages` `Ruby` `Jekyll` `HTML`
