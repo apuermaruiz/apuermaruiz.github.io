@@ -1,8 +1,7 @@
 ---
-permalink: /projects/web-glucosapp/
+permalink: /proyectos/web-glucosapp/
+title: Web de GlucosApp
 ---
-
-## Portfolio / Web de GlucosApp
 
 * Realizado en `2017`
 * Tecnologías: `HTML` `CSS` `PHP`
