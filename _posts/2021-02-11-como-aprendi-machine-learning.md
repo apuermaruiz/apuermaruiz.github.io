@@ -1,4 +1,14 @@
-# Cómo empecé a aprender Machine Learning  
+---
+title: Cómo empecé a aprender Machine Learning
+category: 
+  -historia
+tag: 
+  - machine-learning
+  - data-science
+  - python
+  - cursos
+  - coursera
+---
 
 En el [post anterior](/2020-02-08-me-presento.md) escribí que un compañero me habló por primera vez del término `Machine Learning` el año pasado. Él es doctor en informática, de hecho su tesis trata este tema, y actualmente trabaja en una empresa aplicando esos conocimientos sobre `Aprendizaje Automático`.
 
