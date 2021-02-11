@@ -1,7 +1,7 @@
 ---
 title: Cómo empecé a aprender Machine Learning
 category: 
-  - historia
+  - vivencia
 tag: 
   - machine-learning
   - data-science
