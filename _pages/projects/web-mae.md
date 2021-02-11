@@ -1,5 +1,5 @@
 ---
-layout: page
+permalink: /projects/web-mae/
 ---
 
 ## Portfolio / Web de Música Andaluza y Española
