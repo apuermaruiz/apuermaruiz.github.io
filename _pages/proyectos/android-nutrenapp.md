@@ -1,8 +1,7 @@
 ---
 permalink: /proyectos/android-nutrenapp/
+title: Aplicación NutrenApp en Android
 ---
-
-## Portfolio / Aplicación NutrenApp en Android
 
 * Realizado en `2018`
 * Tecnologías: `Android Studio` `Java` `XML`
