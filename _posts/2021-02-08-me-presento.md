@@ -1,8 +1,8 @@
 ---
 title: Me presento, soy Ana
 header:
-  teaser: /images/laptop-notebook.jpeg
-  image: /images/laptop-notebook.jpeg
+  teaser: /images/laptop-notebook.png
+  image: /images/laptop-notebook.png
   og_image: /images/page-header-teaser.png
 category: 
   - vivencia
