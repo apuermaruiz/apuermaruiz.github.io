@@ -15,7 +15,7 @@ Este sitio web-blog surgió con la finalidad de compartir vivencias, conclusione
 
 *2019*
 
-Este sitio web recoge la información de la empresa PuermaCorp y de sus proyectos de aplicaciones para profesionales sanitarios... 👉🏻 [leer más](/proyectos//web-puermacorp.html)
+Este sitio web recoge la información de la empresa PuermaCorp y de sus proyectos de aplicaciones para profesionales sanitarios... 👉🏻 [leer más](/proyectos//web-puermacorp/)
 
 ![web-puermacorp](../images/web-puermacorp.png)
 
@@ -24,7 +24,7 @@ Este sitio web recoge la información de la empresa PuermaCorp y de sus proyecto
 
 *2019*
 
-Sitio web de la asignatura optativa de Música Andaluza y Española, impartida por el profesor Cristóbal García Gallardo en el Conservatorio Superior de Música de Málaga durante el curso 2018-2019... 👉🏻 [leer más](/proyectos/web-mae.html)
+Sitio web de la asignatura optativa de Música Andaluza y Española, impartida por el profesor Cristóbal García Gallardo en el Conservatorio Superior de Música de Málaga durante el curso 2018-2019... 👉🏻 [leer más](/proyectos/web-mae/)
 
 ![web-mae](../images/web-mae.png)
 
@@ -33,7 +33,7 @@ Sitio web de la asignatura optativa de Música Andaluza y Española, impartida p
 
 *2018*
 
-Esta aplicación de ámbito sanitario para Android contiene diversas calculadoras nutricionales... 👉🏻 [leer más](/proyectos/android-nutrenapp.html)
+Esta aplicación de ámbito sanitario para Android contiene diversas calculadoras nutricionales... 👉🏻 [leer más](/proyectos/android-nutrenapp/)
 
 ![android-nutrenapp](../images/android-nutrenapp.png)
 
@@ -42,7 +42,7 @@ Esta aplicación de ámbito sanitario para Android contiene diversas calculadora
 
 *2017*
 
-Esta aplicación web de ámbito sanitario contiene una calculadora de dosis de insulina y conversoras entre tipos de insulina... 👉🏻 [leer más](/proyectos/web-glucosapp.htlm)
+Esta aplicación web de ámbito sanitario contiene una calculadora de dosis de insulina y conversoras entre tipos de insulina... 👉🏻 [leer más](/proyectos/web-glucosapp/)
 
 ![web-glucosapp](../images/web-glucosapp.png)
 
@@ -50,7 +50,7 @@ Esta aplicación web de ámbito sanitario contiene una calculadora de dosis de i
 
 *2017*
 
-Esta aplicación de ámbito sanitario para Android contiene una calculadora de dosis de insulina y conversoras entre tipos de insulina... 👉🏻 [leer más](/proyectos/android-glucosapp.html)
+Esta aplicación de ámbito sanitario para Android contiene una calculadora de dosis de insulina y conversoras entre tipos de insulina... 👉🏻 [leer más](/proyectos/android-glucosapp/)
 
 ![android-glucosapp](../images/android-glucosapp.png)
 
