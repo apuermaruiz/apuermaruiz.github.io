@@ -1,5 +1,5 @@
 ---
-layout: page
+permalink: /projects/web-personal-github/
 ---
 
 ## Portfolio / Web-Blog Personal
