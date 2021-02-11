@@ -1,3 +1,7 @@
+---
+permalink: /about/
+
+---
 
 # Sobre mi
 
