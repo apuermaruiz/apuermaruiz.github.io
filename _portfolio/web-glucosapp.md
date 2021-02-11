@@ -1,5 +1,5 @@
 ---
-permalink: /proyectos/web-glucosapp/
+permalink: /portfolio/web-glucosapp/
 title: Web de GlucosApp
 ---
 
