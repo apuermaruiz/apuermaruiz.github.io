@@ -9,6 +9,10 @@ tags:
   - machine learning
 ---
 
+{% capture fig_img %}
+![laptop-notebook](../images/laptop-notebook.jpeg)
+{% endcapture %}
+
 Como primer post en mi blog, ¿qué mejor que presentarme?
 
 Hola, me llamo Ana Puerma y soy Ingeniera de Sonido e Imagen. 
@@ -36,4 +40,4 @@ Aún me queda mucho aprender y estoy deseando recorrer este nuevo camino. En est
 
 Gracias por leer hasta aquí y, ¡espero verte de nuevo en mi siguiente post!
 
-![laptop-notebook](../images/laptop-notebook.jpeg)
+
