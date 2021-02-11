@@ -36,4 +36,4 @@ Aún me queda mucho aprender y estoy deseando recorrer este nuevo camino. En est
 
 Gracias por leer hasta aquí y, ¡espero verte de nuevo en mi siguiente post!
 
-![laptop](/images/laptop-notebook.jpeg)
+![laptop-notebook](../images/laptop-notebook.jpeg)
