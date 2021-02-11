@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Ana Puerma Ruiz"
-  avatar           : "/assets/images/memoji-ana.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/memoji-ana.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ingeniera aprendiendo Data Science y MAchine Learning"
   location         : "Spain"
   email            :
