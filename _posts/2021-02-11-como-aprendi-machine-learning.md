@@ -2,6 +2,7 @@
 title: Cómo empecé a aprender Machine Learning
 header:
   teaser: /images/code-laptop-cactus.png
+  image: /images/code-laptop-cactus.png
   og_image: /images/page-header-teaser.png  
 category: 
   - vivencia
