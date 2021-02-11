@@ -35,7 +35,6 @@ Por ello, decidí enfocar mi carrera hacia ese campo y, desde entonces, he estad
 Aún me queda mucho aprender y estoy deseando recorrer este nuevo camino. En este blog, iré compartiendo todo lo que vaya aprendiendo y todos los pequeños proyectos en los que me embarque.
 
 ---
-<br/>
 
 Gracias por leer hasta aquí y, ¡espero verte de nuevo en mi siguiente post!
 
