@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "es-ES"
 title                    : "Entre Líneas de Código"
 title_separator          : "-"
-subtitle                 : "A Jekyll Theme" # site tagline that appears below site title in masthead
+subtitle                 : "Blog de Ana Puerma" # site tagline that appears below site title in masthead
 name                     : "Ana Puerma"
 description              : "Blog personal sobre el desarrollo de mis proyectos y mi aprendizaje de Machine Learning"
 url                      : "https://apuerma.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
