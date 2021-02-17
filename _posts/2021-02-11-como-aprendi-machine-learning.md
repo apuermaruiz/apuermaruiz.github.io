@@ -14,7 +14,7 @@ tag:
   - coursera
 ---
 
-Si bien ya había realizado algunos proyectos para Android y Web, en 2020 decidí aprender más sobre Data Science y Machine Learning y enfocar mi salida laboral hacia este campo.
+Si bien ya había realizado algunos proyectos para Android y Web, en 2020 decidí aprender más sobre Data Science y Machine Learning. Buscaba enfocar mi salida laboral hacia este campo.
 
 En el [post anterior](https://apuerma.github.io/vivencia/me-presento/) escribí que un compañero me habló por primera vez del término `Machine Learning` el año pasado. Él es doctor en informática, de hecho su tesis trata este tema, y actualmente trabaja en una empresa aplicando esos conocimientos sobre `Aprendizaje Automático`.
 
