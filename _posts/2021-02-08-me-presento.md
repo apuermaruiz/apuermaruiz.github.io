@@ -1,9 +1,9 @@
 ---
 title: Me presento, soy Ana
 header:
-  teaser: /images/laptop-notebook.png
-  image: /images/laptop-notebook.png
-  og_image: /images/page-header-teaser.png
+  teaser: https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800
+  image: https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800
+  og_image: https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800
 category: 
   - vivencia
 tags: 
