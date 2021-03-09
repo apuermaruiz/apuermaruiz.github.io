@@ -29,6 +29,6 @@ Contiene diferentes calculadoras nutricionales:
 - A crear y editar en `XML` los diferentes *resources*: string, dimen, color...
 - A diseñar la interfaz y definir una paleta de colores.
 
-### ¿Cómo se ve el proyecto?
+### ¿Cómo se ve la aplicación?
 
-![android-nutrenapp](android-nutrenapp.png)
+![android-nutrenapp]({{ site.url }}{{ site.baseurl }}/images/android-nutrenapp.png)
