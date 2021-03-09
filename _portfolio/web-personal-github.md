@@ -27,4 +27,4 @@ Contiene las siguientes secciones:
 
 ### ¿Cómo se ve el proyecto?
 
-![web-personal.github](../images/web-personal-github.png)
+![web-personal.github]({{ site.url }}{{ site.baseurl }}/images/web-personal-github.png)
