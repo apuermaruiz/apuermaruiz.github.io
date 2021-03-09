@@ -26,4 +26,4 @@ Contienes las siguientes secciones:
 
 ### ¿Cómo se ve el proyecto?
 
-![web-puermacorp](../images/web-puermacorp.png)
+![web-puermacorp]({{ site.url }}{{ site.baseurl }}/images/web-puermacorp.png)
