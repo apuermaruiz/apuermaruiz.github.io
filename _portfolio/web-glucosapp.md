@@ -36,4 +36,4 @@ La calculadora de dosis de insulina de GlucosApp se rige por el **protocolo de i
 
 ### ¿Cómo se ve el proyecto?
 
-![web-glucosapp](../images/web-glucosapp.png)
+![web-glucosapp]({{ site.url }}{{ site.baseurl }}/images/web-glucosapp.png)
