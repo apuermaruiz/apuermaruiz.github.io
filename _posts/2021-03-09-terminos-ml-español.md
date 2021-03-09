@@ -13,6 +13,7 @@ tags:
   - clasificación
   - regularización
   - traducción
+toc: true
 ---
 
 Durante mi aprendizaje de `Machine Learning` todo lo que he escuchado, visto o leido sobre el tema ha sido en *inglés* en su mayoría. Esto me hizo pensar que no sabía realmente cómo referirme a todo lo relacionado con este campo en mi lengua materna, el español.
