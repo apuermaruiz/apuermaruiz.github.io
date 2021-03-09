@@ -22,4 +22,4 @@ Muestra las notas de programa del repertorio de música española interpretado e
 
 ### ¿Cómo se ve el proyecto?
 
-![web-mae](../images/web-mae.png)
+![web-mae]({{ site.url }}{{ site.baseurl }}/images/web-mae.png)
