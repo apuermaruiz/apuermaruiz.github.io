@@ -7,8 +7,8 @@ header:
 category: 
   - vivencia
 tag: 
-  - machine-learning
-  - data-science
+  - machine learning
+  - data science
   - python
   - cursos
   - coursera
