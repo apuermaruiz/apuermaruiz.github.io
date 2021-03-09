@@ -5,7 +5,7 @@ title: Sobre mi
 
 ### Descarga aquí mi CV:
 
-[CV Ana Puerma Ruiz](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47992f90-ae53-4613-82ea-0983fa48028f/CV_ES_Ana_Puerma_Ruiz.pdf){: .btn .btn--success}
+[CV Ana Puerma Ruiz](../docs/CV_ES_Ana_Puerma_Ruiz.pdf){: .btn .btn--success}
 
 ## 🛠 Skills
 
