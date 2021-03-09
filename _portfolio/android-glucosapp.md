@@ -38,4 +38,4 @@ La calculadora de dosis de insulina de GlucosApp se rige por el **protocolo de i
 
 ### ¿Cómo se ve la aplicación?
 
-![android-glucosapp](../images/android-glucosapp.png)
+![android-glucosapp]({{ site.url }}{{ site.baseurl }}/images/android-glucosapp.png)
