@@ -5,7 +5,7 @@ title: Sobre mi
 
 ### Descarga aquí mi CV:
 
-[CV Ana Puerma Ruiz]({{ site.url }}{{ site.baseurl }}/docs/CV_ES_Ana_Puerma_Ruiz.pdf){: .btn .btn--success}
+[CV Ana Puerma Ruiz]({{ site.url }}{{ site.baseurl }}/docs/CV_ES_AnaPuermaRuiz.pdf){: .btn .btn--success}
 
 ## 🛠 Skills
 
