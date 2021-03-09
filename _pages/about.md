@@ -11,15 +11,18 @@ title: Sobre mi
 
 ### <> Lenguajes de Programación
 
-Python / Matlab Octave / Java / SQL Database / HTML / CSS / PHP / JavaScript {: .notice--info}
+Python / Matlab Octave / Java / SQL Database / HTML / CSS / PHP / JavaScript. 
+{: .notice--info}
 
 ### 🤖 Data Science / Machine Learning
 
-Data Science / Machine Learning / Deep Learning / Keras / TensorFlow / Tableau {: .notice--info}
+Data Science / Machine Learning / Deep Learning / Keras / TensorFlow / Tableau. 
+{: .notice--info}
 
 ### 🖇️ Otros
 
-Notion / Agile / Github / WordPress / Android Studio / Visual Studio / Netbeans / Microsoft Office (Word, Excel y PowerPoint) / Redes sociales {: .notice--info}
+Notion / Agile / Github / WordPress / Android Studio / Visual Studio / Netbeans / Microsoft Office (Word, Excel y PowerPoint) / Redes sociales. 
+{: .notice--info}
 
 <br/>
 
