@@ -20,18 +20,6 @@ Durante mi aprendizaje de `Machine Learning` todo lo que he escuchado, visto o l
 
 Por ello, voy a redactar una serie de posts con pequeños *glosarios* de términos relacionados con el `Aprendizaje Automático` que he ido aprendiendo hasta ahora, explicando brevemente lo que significa cada uno.
 
----
-
-Este primer glosario tiene la siguiente estructura:
- 
- - [General](#general) 
- - [Aprendizaje Supervisado](#aprendizaje-supervisado)
-   - [Regresión](#regresión)
-   - [Clasificación](#clasificación)
-   - [Regularización](#regularización)
-
----
-
 ## General
 
 - *Machine Learning* - Aprendizaje Automático
