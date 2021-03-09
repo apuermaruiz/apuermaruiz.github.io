@@ -170,6 +170,5 @@ Este primer glosario tiene la siguiente estructura:
     
 
 ---
-Espero que no haya ningun errata ni ningun malentendido en mis breves explicaciones. En cualquier caso, cualquier comentario es más que bienvenido.
 
 Gracias por leer hasta aquí y, ¡nos vemos en el siguiente post!
