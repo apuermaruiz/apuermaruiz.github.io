@@ -5,7 +5,7 @@ header:
   teaser: /images/web-personal-github.png
 ---
 
-* Realizado en: `2021`
+* Realizado en `2021`
 * Tecnologías: `Github` `Github Pages` `Ruby` `Jekyll` `HTML` `JavaScript`
 
 ### ¿Cómo se ve el proyecto?
