@@ -1,11 +1,18 @@
 ---
 permalink: /portfolio/android-nutrenapp/
 title: Aplicación NutrenApp en Android
+header:
+  teaser: /images/android-nutrenapp.png
 ---
 
 * Realizado en `2018`
 * Tecnologías: `Android Studio` `Java` `XML`
-* Puedes verlo aquí: [NutrenApp](https://play.google.com/store/apps/details?id=puermacorp.nutrenapp)
+
+### ¿Cómo se ve la aplicación?
+
+![android-nutrenapp]({{ site.url }}{{ site.baseurl }}/images/android-nutrenapp.png)
+
+Puedes verlo aquí: [NutrenApp](https://play.google.com/store/apps/details?id=puermacorp.nutrenapp)
 
 ### ¿De qué trata el proyecto?
 
@@ -28,7 +35,3 @@ Contiene diferentes calculadoras nutricionales:
 - A usar los elementos del *layout* y editar sus propiedades.
 - A crear y editar en `XML` los diferentes *resources*: string, dimen, color...
 - A diseñar la interfaz y definir una paleta de colores.
-
-### ¿Cómo se ve la aplicación?
-
-![android-nutrenapp]({{ site.url }}{{ site.baseurl }}/images/android-nutrenapp.png)
