@@ -2,6 +2,7 @@
 title: "Posts por Colección"
 layout: collections
 permalink: /collection-archive/
+entries_layout: grid
 author_profile: true
 ---
 
