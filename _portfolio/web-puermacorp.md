@@ -3,8 +3,8 @@ permalink: /portfolio/web-puermacorp/
 title: Web de PuermaCorp
 ---
 
-* Realizado en `2019`
-* Tecnologías: `Editor Web` `Low Code`
+* Realizado en `2020`
+* Tecnologías: `Editor Web` `WordPress` `Low Code`
 * Puedes verlo aquí: [PuermaCorp](puermacorp.es)
 
 ### ¿De qué trata el proyecto?
@@ -20,9 +20,16 @@ Contienes las siguientes secciones:
 
 ### ¿Qué aprendí?
 
-- A utilizar el **editor web** integrado en Hostinger.
-- A administrar el dominio y el hosting de un sitio web en Hostinger.
+En la primera versión realizada en 2020:
+
+- A utilizar el **editor web** integrado en *Hostinger*.
+- A administrar el dominio y el *hosting* de un sitio web en *Hostinger*.
 - A establecer un diseño de interfaz y paleta de colores de la web.
+
+En actualización realizada en 2021:
+
+ - A instalar WordPress en *Hostinger* y utilizar su interfaz.
+ - A utilizar plantillas de `WordPress` y sus bloques de elementos.
 
 ### ¿Cómo se ve el proyecto?
 
