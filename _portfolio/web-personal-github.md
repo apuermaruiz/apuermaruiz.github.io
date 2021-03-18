@@ -1,11 +1,18 @@
 ---
 permalink: /portfolio/web-personal-github/
 title: Web-Blog Personal
+header:
+  teaser: /images/web-personal-github.png
 ---
 
 * Realizado en: `2021`
 * Tecnologías: `Github` `Github Pages` `Ruby` `Jekyll` `HTML` `JavaScript`
-* Puerdes verlo aquí: [apuerma](https://apuerma.github.io)
+
+### ¿Cómo se ve el proyecto?
+
+![web-personal.github]({{ site.url }}{{ site.baseurl }}/images/web-personal-github.png)
+
+Puerdes verlo aquí: [apuerma](https://apuerma.github.io)
 
 ## ¿De qué trata el proyecto?
 
@@ -24,7 +31,3 @@ Contiene las siguientes secciones:
 - A gestionar un sitio web basado en `Ruby` y `Jekyll`.
 - A gestionar las páginas, subpáginas y posts dentro del sitio web.
 - A crear mi **marca personal**, definiendo el estilo, voz y tono del Blog.
-
-### ¿Cómo se ve el proyecto?
-
-![web-personal.github]({{ site.url }}{{ site.baseurl }}/images/web-personal-github.png)
