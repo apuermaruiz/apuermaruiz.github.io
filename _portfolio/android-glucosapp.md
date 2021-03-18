@@ -1,11 +1,19 @@
 ---
 permalink: /portfolio/android-glucosapp/
 title: Aplicación GlucosApp en Android
+header: 
+  teaser: /images/android-glucosapp.png
 ---
 
 * Realizado en `2017`
 * Tecnologías: `Android Studio` `Java` `XML`
-* Puedes verlo aquí: [GlucosApp](play.google.com/store/apps/details?id=glucosapp.glucosapp)
+
+
+### ¿Cómo se ve la aplicación?
+
+![android-glucosapp]({{ site.url }}{{ site.baseurl }}/images/android-glucosapp.png)
+
+Puedes verlo aquí: [GlucosApp](play.google.com/store/apps/details?id=glucosapp.glucosapp)
 
 ### ¿De qué trata la aplicación?
 
@@ -35,7 +43,3 @@ La calculadora de dosis de insulina de GlucosApp se rige por el **protocolo de i
 - A usar los elementos del *layout* y editar sus propiedades.
 - A crear y editar en `XML` los diferentes *resources*: string, dimen, color...
 - A diseñar la interfaz y definir una paleta de colores.
-
-### ¿Cómo se ve la aplicación?
-
-![android-glucosapp]({{ site.url }}{{ site.baseurl }}/images/android-glucosapp.png)
