@@ -24,12 +24,12 @@ En la primera versión realizada en 2020:
 
 - A utilizar el **editor web** integrado en *Hostinger*.
 - A administrar el dominio y el *hosting* de un sitio web en *Hostinger*.
-- A establecer un diseño de interfaz y paleta de colores de la web.
+- A establecer un **diseño** de interfaz y **paleta de colores** de la web.
 
 En actualización realizada en 2021:
 
- - A instalar WordPress en *Hostinger* y utilizar su interfaz.
- - A utilizar plantillas de `WordPress` y sus bloques de elementos.
+ - A instalar `WordPress` en *Hostinger* y utilizar su **interfaz**.
+ - A utilizar **plantillas** de `WordPress` y sus bloques de elementos.
 
 ### ¿Cómo se ve el proyecto?
 
