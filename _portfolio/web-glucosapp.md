@@ -1,11 +1,18 @@
 ---
 permalink: /portfolio/web-glucosapp/
 title: Web de GlucosApp
+header: 
+  teaser: /images/web-glucosapp.png 
 ---
 
 * Realizado en `2017`
 * Tecnologías: `HTML` `CSS` `PHP`
-* Puedes verlo aquí: [GlucosApp](glucosapp.com)
+
+### ¿Cómo se ve el proyecto?
+
+![web-glucosapp]({{ site.url }}{{ site.baseurl }}/images/web-glucosapp.png)
+
+Puedes verlo aquí: [GlucosApp](glucosapp.com)
 
 ### ¿De qué trata el proyecto?
 
@@ -33,7 +40,3 @@ La calculadora de dosis de insulina de GlucosApp se rige por el **protocolo de i
 - A agregar archivos de estilo `CSS` a los archivos `HTML`.
 - A gestionar los formularios `HTML` y recoger la entrada de texto con variables en `PHP`.
 - A gestionar la visibilidad de bloques `HTML` en `PHP`.
-
-### ¿Cómo se ve el proyecto?
-
-![web-glucosapp]({{ site.url }}{{ site.baseurl }}/images/web-glucosapp.png)
