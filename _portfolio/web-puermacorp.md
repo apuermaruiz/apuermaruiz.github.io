@@ -2,7 +2,7 @@
 permalink: /portfolio/web-puermacorp/
 title: Web de PuermaCorp
 header:
-  teaser: {{ site.url }}{{ site.baseurl }}/images/web-puermacorp.png
+  teaser: /images/web-puermacorp.png
 ---
 
 * Realizado en `2020`
