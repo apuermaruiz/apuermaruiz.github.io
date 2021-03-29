@@ -30,11 +30,11 @@ Puedes ver el resultado [aquí](https://github.com/apuerma/python-machine-learni
 
 El primer ejercicio del curso consiste en implementar modelos de regresión linear con una variable y con multiples variables, así como visualizarlos y como se comportan respecto a los datos de entrada.
 
-## Regresión Linear con una variable
+## 1. Regresión Linear con una variable
 
 En este primer apartado del ejercicio, hay que implementar un modelo de regresión linear con una variable para predecir los beneficios de un comión de comidas de una franquicia de restaurantes. La cadena tiene varios camiones por varias ciudades y tiene datos de beneficios en función de las poblaciones. 
 
-### Visualizar los datos
+### 1.1 Visualizar los datos
 
 En primer lugar voy a visualizar los datos que tengo almacenados en el archivo que me proporcionan. La primera columna es la población de la ciudad y la segunda, el beneficio (si es positivo) o la pérdida (si es negativo).
 
@@ -61,7 +61,7 @@ plt.show()
 ```
 
 
-### Función de coste
+### 1.2 Función de coste
 
 El objetivo de la regresión linear es minimizar la función de coste J(𝜃), es decir, minimizar la diferencia entre los datos reales y la hipótesis, tal y como muestran las siguientes ecuaciones:
 
@@ -95,7 +95,7 @@ Para comprobar si está correcto, en el ejercicio original del curso prueban con
 | [-1 ; 2] | 54.2425         | 54.24          |
 
 
-### Gradiente Descendente
+### 1.3 Gradiente Descendente
 
 La finalidad del gradiente descendente es ayudar a minimizar la función de coste ajustando los valores de 𝜃 mediante la repetición de actualizaciones de los valores de 𝜃, según la siguiente ecuación:
 
@@ -134,7 +134,7 @@ Para comprobar si está correcto, en el ejercicio original inicializan los valor
 | -3.6303     | -3.6303	       | 
 | 1.1664      | 1.1664         | 
 
-### Visualizar el ajuste linear
+### 1.4 Visualizar el ajuste linear
 
 ![ml-ex1-image4]({{ site.url }}{{ site.baseurl }}/images/ml-ex1-image4.png){: .align-right}
 
@@ -154,7 +154,7 @@ plt.plot(X[:,1], h, color='blue')
 plt.show()
 ```
 
-### Predecir nuevos valores
+### 1.5 Predecir nuevos valores
 
 Una vez que tenemos el modelo de regresión linear podemos predecir valores de beneficios con nuevos datos de población. En el ejercicio original, nos piden calcular la predicción de beneficios en áreas de 35000 y 70000 personas. Con estos datos y los valores de 𝜃 obtenidos, podemos calcular las predicciones de la siguiente forma:
 
@@ -170,7 +170,7 @@ predict2 = np.dot([1, 7] , theta) * 10000
 | 70000      | 45342.4501   | 
 
 
-### Visualizar la función de coste
+### 1.6 Visualizar la función de coste
 
 Para entender mejor la función de coste, se puede representar en función de los valores de 𝜃, tanto en dos como en 3 dimensiones, utilizando las herramientas de `surface` y `contour` de `matplotlib`. Puedes ver cómo lo he implementado con más detalle [aquí](https://github.com/apuerma/python-machine-learning/blob/main/ML_Exercise_1_Linear_Regression.ipynb) en mi repositorio en Github.
 
