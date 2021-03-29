@@ -180,7 +180,9 @@ Para entender mejor la función de coste, se puede representar en función de lo
 
 ---
 
-Hasta aquí la primera parte del primer ejercicio del curso de Machine Learning de Andrew Ng. La primera vez que realicé este ejercicio aprendí muchísimo y me enfrenté a pequeñas dificultades, tanto en lo matemático como en la programación para `Octave`. En esta ocasión, si bien los conocimientos estaban mucho más claros, también me he enfrentado a pequeños obstáculos al adaptar el código a Python. No obstante, todos ellos me han servido para afianzar mis habilidades programando en `Python`.
+Hasta aquí la primera parte del primer ejercicio del curso de Machine Learning de Andrew Ng. 
+
+La primera vez que realicé este ejercicio aprendí muchísimo y me enfrenté a pequeñas dificultades, tanto en lo matemático como en la programación para `Octave`. En esta ocasión, si bien los conocimientos estaban mucho más claros, también me he enfrentado a pequeños obstáculos al adaptar el código a `Python`. No obstante, todos ellos me han servido para afianzar mis habilidades programando en `Python`.
 
 Proximamente iré implementando en `Python` el resto de ejercicios del curso y escribiré nuevos post sobre ellos.
 
