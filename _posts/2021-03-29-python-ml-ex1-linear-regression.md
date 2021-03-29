@@ -46,7 +46,10 @@ En primer lugar voy a visualizar los datos que tengo almacenados en el archivo q
 | 4   | 7.0032     | 11.8540 |
 | 5   | 5.8598     | 6.8233  |
 
-![ml-ex1-image1]({{ site.url }}{{ site.baseurl }}/images/ml-ex1-image1.png){: .align-right}
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ml-ex1-image1.png)" alt="">
+  <figcaption>Gráfica de dispersión de beneficios por población.</figcaption>
+</figure> 
 
 Con las siguientes líneas de código, usando `matplotlib` y una gráfica de dispresión, podemos representar los datos proporcionados:
 
@@ -91,7 +94,7 @@ Para comprobar si está correcto, en el ejercicio original del curso prueban con
 
 | 𝜃        | coste calculado | coste esperado |
 |:--------:|:---------------:|:--------------:|
-| [0 ; 0]  | 32.0727	       | 32.07          |
+| [0 ; 0]  | 32.0727	     | 32.07          |
 | [-1 ; 2] | 54.2425         | 54.24          |
 
 
@@ -136,7 +139,10 @@ Para comprobar si está correcto, en el ejercicio original inicializan los valor
 
 ### 1.4 Visualizar el ajuste linear
 
-![ml-ex1-image4]({{ site.url }}{{ site.baseurl }}/images/ml-ex1-image4.png){: .align-right}
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ml-ex1-image4.png)" alt="">
+  <figcaption>Gráfica de dispersión de beneficios por población con la función linear superpuesta.</figcaption>
+</figure> 
 
 Para visualizar el ajuste de modelo de regresión superponemos la función linear a los datos de entrada, y quedaría de la siguiente manera:
 
@@ -174,7 +180,7 @@ predict2 = np.dot([1, 7] , theta) * 10000
 
 Para entender mejor la función de coste, se puede representar en función de los valores de 𝜃, tanto en dos como en 3 dimensiones, utilizando las herramientas de `surface` y `contour` de `matplotlib`. Puedes ver cómo lo he implementado con más detalle [aquí](https://github.com/apuerma/python-machine-learning/blob/main/ML_Exercise_1_Linear_Regression.ipynb) en mi repositorio en Github.
 
-![ml-ex1-image5]({{ site.url }}{{ site.baseurl }}/images/ml-ex1-image5.png){: .align-right}
+![ml-ex1-image5]({{ site.url }}{{ site.baseurl }}/images/ml-ex1-image5.png)
 
 ---
 
