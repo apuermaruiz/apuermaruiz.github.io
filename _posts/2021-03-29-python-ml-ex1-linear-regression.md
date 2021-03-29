@@ -46,6 +46,7 @@ En primer lugar voy a visualizar los datos que tengo almacenados en el archivo q
 | 4   | 7.0032     | 11.8540 |
 | 5   | 5.8598     | 6.8233  |
 
+
 Con las siguientes líneas de código, usando `matplotlib` y una gráfica de dispresión, podemos representar los datos proporcionados:
 
 ```python
@@ -82,7 +83,6 @@ def computeCost(X, y, theta):
 	m = len(y)
 	h = np.dot(X, theta)
 	J = (1/(2*m)) * np.sum(np.square(h - y))
-
 	return J
 ```
 
@@ -132,6 +132,7 @@ Para comprobar si está correcto, en el ejercicio original inicializan los valor
 |:-----------:|:--------------:|
 | -3.6303     | -3.6303	       | 
 | 1.1664      | 1.1664         | 
+
 
 ### 1.4 Visualizar el ajuste linear
 
