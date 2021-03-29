@@ -20,7 +20,7 @@ Mi camino en el aprendizaje de Machine Learning comenzó con el curso de Andrew 
 
 Este curso está dividido en bloques semanales que contienen videos explicativos y ejercicios evaluables escritos para realizarse en `Octave` o `Matlab`. 
 
-Actualmente uno de los lenguajes más popular para desarrollar los modelos de Machine Learning es `Python`. Por lo tanto, me he propuesto volver a realizar estos ejercicios evaluables, pero en esta ocasión en `Python` y usando los ficheros `Jupyter Notebook` que facilitan el desarrollo de una memoria escrita añadiendo líneas de código y su resultado.
+Actualmente, uno de los lenguajes más popular para desarrollar los modelos de Machine Learning es `Python`. Por lo tanto, me he propuesto volver a realizar estos ejercicios evaluables, pero en esta ocasión en `Python` y usando los ficheros `Jupyter Notebook` que facilitan el desarrollo de una memoria escrita añadiendo líneas de código y su resultado.
 
 Puedes ver el resultado [aquí](https://github.com/apuerma/python-machine-learning) en mi repositorio de Github.
 
@@ -32,7 +32,7 @@ El primer ejercicio del curso consiste en implementar modelos de regresión line
 
 ## 1. Regresión Linear con una variable
 
-En este primer apartado del ejercicio, hay que implementar un modelo de regresión linear con una variable para predecir los beneficios de un comión de comidas de una franquicia de restaurantes. La cadena tiene varios camiones por varias ciudades y tiene datos de beneficios en función de las poblaciones. 
+En este primer apartado del ejercicio, hay que implementar un modelo de regresión linear con una variable para predecir los beneficios de un food truck de una franquicia de restaurantes. La cadena tiene varios food truck por varias ciudades y tiene datos de beneficios en función de las poblaciones. 
 
 ### 1.1 Visualizar los datos
 
