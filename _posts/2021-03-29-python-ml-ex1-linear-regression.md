@@ -46,11 +46,6 @@ En primer lugar voy a visualizar los datos que tengo almacenados en el archivo q
 | 4   | 7.0032     | 11.8540 |
 | 5   | 5.8598     | 6.8233  |
 
-<figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/ml-ex1-image1.png)" alt="">
-  <figcaption>Gráfica de dispersión de beneficios por población.</figcaption>
-</figure> 
-
 Con las siguientes líneas de código, usando `matplotlib` y una gráfica de dispresión, podemos representar los datos proporcionados:
 
 ```python
@@ -62,6 +57,7 @@ plt.ylabel('Profit in $10,000s')
 
 plt.show()
 ```
+![ml-ex1-image1]({{ site.url }}{{ site.baseurl }}/images/ml-ex1-image1.png)
 
 
 ### 1.2 Función de coste
@@ -139,11 +135,6 @@ Para comprobar si está correcto, en el ejercicio original inicializan los valor
 
 ### 1.4 Visualizar el ajuste linear
 
-<figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/ml-ex1-image4.png)" alt="">
-  <figcaption>Gráfica de dispersión de beneficios por población con la función linear superpuesta.</figcaption>
-</figure> 
-
 Para visualizar el ajuste de modelo de regresión superponemos la función linear a los datos de entrada, y quedaría de la siguiente manera:
 
 ```python
@@ -159,10 +150,12 @@ plt.plot(X[:,1], h, color='blue')
 
 plt.show()
 ```
+![ml-ex1-image4]({{ site.url }}{{ site.baseurl }}/images/ml-ex1-image4.png)
 
-### 1.5 Predecir nuevos valores
 
-Una vez que tenemos el modelo de regresión linear podemos predecir valores de beneficios con nuevos datos de población. En el ejercicio original, nos piden calcular la predicción de beneficios en áreas de 35000 y 70000 personas. Con estos datos y los valores de 𝜃 obtenidos, podemos calcular las predicciones de la siguiente forma:
+### 1.5 Estimar nuevos valores
+
+Una vez que tenemos el modelo de regresión linear podemos estimar valores de beneficios con nuevos datos de población. En el ejercicio original, nos piden calcular la predicción de beneficios en áreas de 35000 y 70000 personas. Con estos datos y los valores de 𝜃 obtenidos, podemos calcular las estimaciones de la siguiente forma:
 
 ```python
 # Predict values for population sizes of 35,000 and 70,000
@@ -181,6 +174,8 @@ predict2 = np.dot([1, 7] , theta) * 10000
 Para entender mejor la función de coste, se puede representar en función de los valores de 𝜃, tanto en dos como en 3 dimensiones, utilizando las herramientas de `surface` y `contour` de `matplotlib`. Puedes ver cómo lo he implementado con más detalle [aquí](https://github.com/apuerma/python-machine-learning/blob/main/ML_Exercise_1_Linear_Regression.ipynb) en mi repositorio en Github.
 
 ![ml-ex1-image5]({{ site.url }}{{ site.baseurl }}/images/ml-ex1-image5.png)
+
+
 
 ---
 
