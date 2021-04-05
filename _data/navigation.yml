@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Sobre mi"
-    url: https://apuerma.github.io/about/
+    url: /about/
   - title: "Posts"
     url: /year-archive/
   - title: "Portfolio"
