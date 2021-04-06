@@ -96,7 +96,7 @@ Por ello, voy a redactar una serie de posts con pequeños *glosarios* de términ
 
     Se calcula con la siguiente formula: 
     
-    $$x = \dfrac{(x-\mu)}{\sigma}$$
+    $$\newcommand {\x} = \dfrac{(x-\mu)}{\sigma}$$
     
     siendo <var>\mu<var> el valor medio de la variable sin normalizar, y <var>\sigma</var> la desviación estándar (rango entre el valor mínimo y el máximo). 
     
