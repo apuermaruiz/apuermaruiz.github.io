@@ -2,29 +2,28 @@
 permalink: /about/
 title: Sobre mi
 ---
+## Puedes contactar conmigo aquí 👩‍💻
 
-### Descarga aquí mi CV:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E88E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](linkedin.com/in/anapuermaruiz)
+[![Twitter](https://img.shields.io/badge/-Twitter-1E88E5?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](twitter.com/apuermaruiz)
 
-[CV Ana Puerma Ruiz]({{ site.url }}{{ site.baseurl }}/docs/CV_ES_AnaPuermaRuiz.pdf){: .btn .btn--success}
 
 ## 🛠 Skills
 
-### <> Lenguajes de Programación
-
-Python / Matlab Octave / Java / SQL Database / HTML / CSS / PHP / JavaScript. 
-{: .notice--info}
-
 ### 🤖 Data Science / Machine Learning
 
-Data Science / Machine Learning / Deep Learning / Keras / TensorFlow / Tableau. 
+Matlab / Octave / Python / SQL Database / Data Science / Machine Learning / Deep Learning / Keras / TensorFlow / Tableau 
+{: .notice--info}
+
+### 💻 📱 Web/Apps
+
+HTML / CSS / PHP / WordPress / Java / JavaScript / Flask
 {: .notice--info}
 
 ### 🖇️ Otros
 
-Notion / Agile / Github / WordPress / Android Studio / Visual Studio / Netbeans / Microsoft Office (Word, Excel y PowerPoint) / Redes sociales. 
+Notion / Github / Visual Studio / Android Studio / Microsoft Office (Word, Excel, PowerPoint) / Redes sociales 
 {: .notice--info}
-
-
 
 ## 💼 Experiencia Laboral
 
@@ -32,43 +31,55 @@ Notion / Agile / Github / WordPress / Android Studio / Visual Studio / Netbeans 
 
 **PuermaCorp** *– (Abr 2017 - Actualmente)*
 
-- Desarrollo del sitio web [www.puermacorp.es](http://www.puermacorp.es/)
 - Desarrollo versión Android de **GlucosApp**
 - Desarrollo del sitio web [www.glucosapp.com](http://www.glucosapp.com/)
 - Desarrollo versión Android de **NutrenApp**
+- Desarrollo del sitio web [www.puermacorp.es](http://www.puermacorp.es/)
 - Traducción al inglés de los textos de **GlucosApp** y **NutrenApp**
 
 <br/>
 
 ## 📚 Educación
 
+### Máster en Gestión y Desarrollo de Aplicaciones Multiplataforma
+
+Universidad Católica de Ávila, España - *2016-2021*
+
 ### Grado en Ingeniería de Sonido e Imagen
 
-Escuela Técnica Superior de Ingeniería de Telecomunicaciones (ETSIT), Universidad de Málaga, España
+Escuela Técnica Superior de Ingeniería de Telecomunicaciones (ETSIT), Universidad de Málaga, España - *2011-2015*
 
-*2011 - 2015*
+### Enseñanzas Superiores de Música, especialidad Piano
+
+Conservatorio Superior de Música de Málaga (CSM Málaga), España - *2014-2020*
+
+### Enseñanzas Profesionales de Música, especialidad Piano
+
+Conservatorio Profesional de Música "Manuel Carra", Málaga, España - *2007-2014*
+
+</br>
 
 ## 📚 Formación Adicional
 
 ### Especialización de Data Visualization with Tableau
 
-University of California Davis, Coursera - Ene *2021*
+University of California Davis, Coursera - *2021*
 
 ### Certificado Profesional de Desarrollador TensorFlow
 
-Deeplearning.ai, Coursera - Ene *2021*
+Deeplearning.ai, Coursera - *2021*
 
 ### Especialización de Deep Learning
 
-Deeplearning.ai, Coursera - Dic *2020*
+Deeplearning.ai, Coursera - *2020*
 
 ### Certificado Profesional de Data Science
 
-IBM, Coursera - Nov *2020*
+IBM, Coursera - *2020*
 
 ### Curso Machine Learning
 
-Stanford, Coursera - Sep *2020*
+Stanford, Coursera - *2020*
 
 <br/>
 
