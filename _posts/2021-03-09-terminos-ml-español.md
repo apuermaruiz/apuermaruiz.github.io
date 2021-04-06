@@ -92,11 +92,7 @@ Por ello, voy a redactar una serie de posts con pequeños *glosarios* de términ
 
 - *Mean Normalization* - Normalización promedio
 
-    Normalización o ajuste en el que las variables de entrada tienen una media de 0, por ejemplo el intervalo [-0.5, 0.5]. 
-
-    Se calcula con la siguiente formula: \(x = \frac{x-\mu}{\sigma}\)
-    
-    siendo μ \(\mu\) el valor medio de la variable sin normalizar, y σ \(\sigma}\) la desviación estándar (rango entre el valor mínimo y el máximo). 
+    Normalización o ajuste en el que las variables de entrada tienen una media de 0, por ejemplo el intervalo [-0.5, 0.5]. Depende de μ, el valor medio de la variable sin normalizar, y σ, la desviación estándar (rango entre el valor mínimo y el máximo). 
     
     <br/>
 
