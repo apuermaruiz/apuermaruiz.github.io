@@ -43,19 +43,19 @@ Notion / Github / Visual Studio / Android Studio / Microsoft Office (Word, Excel
 
 ### Máster en Gestión y Desarrollo de Aplicaciones Multiplataforma
 
-Universidad Católica de Ávila, España - [*2016-2021*]
+Universidad Católica de Ávila, España  [ *2016 - 2021* ]
 
 ### Grado en Ingeniería de Sonido e Imagen
 
-Escuela Técnica Superior de Ingeniería de Telecomunicaciones (ETSIT), Universidad de Málaga, España - [*2011-2015*]
+Escuela Técnica Superior de Ingeniería de Telecomunicaciones (ETSIT), Universidad de Málaga, España  [ * 2011 - 2015* ]
 
 ### Enseñanzas Superiores de Música, especialidad Piano
 
-Conservatorio Superior de Música de Málaga (CSM Málaga), España - [*2014-2020*]
+Conservatorio Superior de Música de Málaga (CSM Málaga), España  [ *2014 - 2020* ]
 
 ### Enseñanzas Profesionales de Música, especialidad Piano
 
-Conservatorio Profesional de Música "Manuel Carra", Málaga, España - [*2007-2014*]
+Conservatorio Profesional de Música "Manuel Carra", Málaga, España  [ *2007 - 2014* ]
 
 </br>
 
