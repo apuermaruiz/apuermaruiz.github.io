@@ -94,7 +94,7 @@ Por ello, voy a redactar una serie de posts con pequeños *glosarios* de términ
 
     Normalización o ajuste en el que las variables de entrada tienen una media de 0, por ejemplo el intervalo [-0.5, 0.5]. 
 
-    Se calcula con la siguiente formula: <script type="math/tex">\x = \dfrac{(x-\mu)}\sigma</script>, siendo <var>\mu<var> el valor medio de la variable sin normalizar, y <var>\sigma</var> la desviación estándar (rango entre el valor mínimo y el máximo). 
+    Se calcula con la siguiente formula: <script type="math/tex; mode=display">\x = \dfrac{(x-\mu)}\sigma</script>, siendo μ el valor medio de la variable sin normalizar, y σ, la desviación estándar (rango entre el valor mínimo y el máximo). 
     
     <br/>
 
