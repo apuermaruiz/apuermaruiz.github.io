@@ -47,7 +47,7 @@ Universidad Católica de Ávila, España  [ *2016 - 2021* ]
 
 ### Grado en Ingeniería de Sonido e Imagen
 
-Escuela Técnica Superior de Ingeniería de Telecomunicaciones (ETSIT), Universidad de Málaga, España  [ * 2011 - 2015* ]
+Escuela Técnica Superior de Ingeniería de Telecomunicaciones (ETSIT), Universidad de Málaga, España  [ *2011 - 2015* ]
 
 ### Enseñanzas Superiores de Música, especialidad Piano
 
