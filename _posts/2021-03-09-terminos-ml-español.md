@@ -131,7 +131,7 @@ Por ello, voy a redactar una serie de posts con pequeños *glosarios* de términ
 
 - *Regularization* - Regularización
 
-    Técnica del Aprendizaje Automático que optimiza la obtención de la función de coste ideal para un modelo predictivo. Depende del parámetro de regularización $\lambda$. Cuanto mayor sea $\lambda$, mayor efecto tendra la regularización.
+    Técnica del Aprendizaje Automático que optimiza la obtención de la función de coste ideal para un modelo predictivo. Depende del parámetro de regularización λ. Cuanto mayor sea λ, mayor efecto tendra la regularización.
 
 - *Overfitting* - Sobreajuste o ajuste por encima
 
