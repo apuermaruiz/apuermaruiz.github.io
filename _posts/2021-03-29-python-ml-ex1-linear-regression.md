@@ -193,7 +193,7 @@ De nuevo voy a visualizar los datos proporcionados para entenderlos mejor. En es
 |   3  | 1416   |     2       | 232000  | 
 |   4  | 3000   |     4       | 539900  | 
 
-### 2.2 Normalizar
+### 2.2. Normalizar
 
 Observando los valores de entrada, el tamaños de las casas tiene una escala mucho mayor que el número de dormitorios. Por tanto, cuando los parámetros tienen orden de magnitudes muy diferentes es preferible realizar una normalización para que el gradiente descendente sea más eficiente:
 
