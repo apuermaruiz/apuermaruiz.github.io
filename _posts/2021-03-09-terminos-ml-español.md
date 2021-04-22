@@ -155,6 +155,23 @@ Por ello, voy a redactar una serie de posts con pequeños *glosarios* de términ
     - Si hay varianza alta, el modelo es demasiado complejo y flexible. Se ajusta en exceso a los valores de entrenamiento y se produce un *sobreajuste*.
     - Si hay varianza baja, el modelo no es demasiado complejo y se ajusta en términos más generales a los valores de los datos de entrenamiento
     
+### Métricas de error
+
+- Confusion matrix - matriz de confusión
+
+Matriz que permite medir el desempeño de un modelo de aprendizaje automático supervisado comparando valores reales y estimados.
+
+- Precision - precisión
+
+Cantidad de positivos verdaderos entre los positivos estimados (positivos verdaderos y falsos positivos)
+
+- Recall - sensibilidad
+
+Cantidad de positivos verdaderos entre los positivos reales (positivos verdaderos y falsos negativos)
+
+- F1 Score 
+
+Une las métricas de precisión y sensibilidad y proporciona una métrica más fiable cuando la distribución de las clases es muy desigual. Se calcula con la siguiente fórmula: 2 * (Precision * Recall) / (Precision + Recall).
 
 ---
 
