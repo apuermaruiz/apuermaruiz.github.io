@@ -16,7 +16,7 @@ tags:
 toc: true
 ---
 
-Mi camino en el aprendizaje de Machine Learning comenzó con el curso de Andrew Ng de Coursera, tal y como comenté el post [*Como empecé a aprender Machine Learning*](https://apuerma.github.io/vivencia/como-aprendi-machine-learning/) del blog.
+Mi camino en el aprendizaje de Machine Learning comenzó con el curso de Andrew Ng de Coursera, tal y como comenté en el post [*Como empecé a aprender Machine Learning*](https://apuerma.github.io/vivencia/como-aprendi-machine-learning/).
 
 Este curso está dividido en bloques semanales que contienen videos explicativos y ejercicios evaluables escritos para realizarse en `Octave` o `Matlab`. 
 
