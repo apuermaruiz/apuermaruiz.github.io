@@ -27,9 +27,11 @@ Notion / Github / Visual Studio / Android Studio / Microsoft Office (Word, Excel
 
 ## 💼 Experiencia Laboral
 
-### Desarrolladora
+### Junior Software Programmer – I.A.
+**NASSAT - Internet Satélite en Movimiento** [ *jun 2021 – Actualidad* ]
 
-**PuermaCorp** *– (Abr 2017 - Actualmente)*
+### Co-CEO y Web/App Developer
+**PuermaCorp** [ *Abr 2017 - Actualidad* ]
 
 - Desarrollo versión Android de **GlucosApp**
 - Desarrollo del sitio web [www.glucosapp.com](http://www.glucosapp.com/)
