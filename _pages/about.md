@@ -12,22 +12,18 @@ title: Sobre mi
 
 ### 🤖 Artificial Intelligence / Data Science
 
-Python / Matlab / Octave / Keras / TensorFlow / SQL Database / Machine Learning / Deep Learning / Neural Networks / Tableau 
-{: .notice--info}
+Python / Matlab / Octave / Keras / TensorFlow / SQL Database / Machine Learning / Deep Learning / Neural Networks / Tableau {: .notice--info}
 
 ### 💻 📱 Web/Apps
 
-Flask / HTML / CSS / PHP / JavaScript / Java / Markdown / WordPress
-{: .notice--info}
+Flask / HTML / CSS / PHP / JavaScript / Java / Markdown / WordPress {: .notice--info}
 
 ### 🖥️  IDE
-PyCharm / Visual Studio / Android Studio
-{: .notice--info}
+PyCharm / Visual Studio / Android Studio {: .notice--info}
 
 ### 🖇️ Otros
 
-Github / Notion / Figma / Miro / Jira / Microsoft Office (Word, Excel, PowerPoint) / Redes sociales 
-{: .notice--info}
+Github / Notion / Figma / Miro / Jira / Microsoft Office (Word, Excel, PowerPoint) / Redes sociales  {: .notice--info}
 
 ## 💼 Experiencia Laboral
 
