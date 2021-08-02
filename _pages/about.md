@@ -80,16 +80,16 @@ _Abr 2017 - Actualidad_
 **Especialización de Data Visualization with Tableau** <br>
 <span style="color:gray">_University of California Davis, Coursera_</span> - *2021*
 
-**Certificado Profesional de Desarrollador TensorFlow**
+**Certificado Profesional de Desarrollador TensorFlow** <br>
 <span style="color:gray">_Deeplearning.ai, Coursera_</span> - *2021*
 
-**Especialización de Deep Learning**
+**Especialización de Deep Learning** <br>
 <span style="color:gray">_Deeplearning.ai, Coursera_</span> - *2020*
 
-**Certificado Profesional de Data Science**
+**Certificado Profesional de Data Science** <br>
 <span style="color:gray">_IBM, Coursera_</span> - *2020*
 
-**Curso Machine Learning**
+**Curso Machine Learning** <br>
 <span style="color:gray">_Stanford University, Coursera_</span> - *2020*
 
 ---
@@ -98,9 +98,9 @@ _Abr 2017 - Actualidad_
 
 🇪🇸  **Español** - Nativo
 
-🇬🇧  **Inglés** - Avanzado - Nivel C1 (Cambridge Assessment English)
+🇬🇧  **Inglés** - Avanzado (C1 por _Cambridge Assessment English_)
 
-🇩🇪  **Alemán**  - Básico - Nivel A1
+🇩🇪  **Alemán**  - Básico 
 
-🇯🇵  **Japonés** - Básico - Nivel A1
+🇯🇵  **Japonés** - Básico 
 
