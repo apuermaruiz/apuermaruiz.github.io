@@ -49,7 +49,7 @@ title: Sobre mi
  
 - Diseño de Interfaz de Usuario
 - Desarrollo Frontend de Aplicación Web
-- Desarrollo de modelos de Inteligencia Articial
+- Desarrollo de modelos de Inteligencia Artificial
 
 
 **Co-CEO y Web/App Developer**    <br>
