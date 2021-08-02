@@ -15,12 +15,10 @@ title: Sobre mi
 ![Figma](https://img.shields.io/badge/-Figma-9E9E9E?style=flat&logo=figma&logoColor=ffffff)
 ![Miro](https://img.shields.io/badge/-Miro-9E9E9E?style=flat&logo=miro&logoColor=ffffff)
 
-
 ![PyCharm](https://img.shields.io/badge/-Pycharm-9E9E9E?style=flat&logo=pycharm&logoColor=ffffff)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-9E9E9E?style=flat&logo=visualstudio&logoColor=ffffff)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-9E9E9E?style=flat&logo=androidstudio&logoColor=ffffff)
 ![WordPress](https://img.shields.io/badge/-WordPress-9E9E9E?style=flat&logo=wordpress&logoColor=ffffff)
-
 
 ![Octave](https://img.shields.io/badge/-Octave-9E9E9E?style=flat&logo=octave&logoColor=ffffff)
 ![Matlab](https://img.shields.io/badge/-Matlab-9E9E9E?style=flat&logo=matlab&logoColor=ffffff)
@@ -39,90 +37,85 @@ title: Sobre mi
 ![Javascript](https://img.shields.io/badge/-JavaScript-9E9E9E?style=flat&logo=Javascript&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-9E9E9E?style=flat&logo=markdown&logoColor=ffffff)
 
-
 ---
 
+### 💼 Experiencia Laboral
 
-## 💼 Experiencia Laboral
+**Junior Software Programmer – IA**
 
-### Junior Software Programmer – I.A.
-**NASSAT - Internet Satélite en Movimiento** [ *jun 2021 – Actualidad* ]
+<span style="color:gray">**_NASSAT - Internet Satélite en Movimiento_**</span> [ *jun 2021 – Actualidad* ]
+
 - Diseño de Interfaz de Usuario
 - Desarrollo Frontend de Aplicación Web
 - Desarrollo de modelos de Inteligencia Articial
 
-### Co-CEO y Web/App Developer
-**PuermaCorp** [ *Abr 2017 - Actualidad* ]
+**Co-CEO y Web/App Developer**
 
-- Desarrollo versión Android de **GlucosApp** y **NutrenApp**
+<span style="color:gray">**_PuermaCorp_**</span> [ *Abr 2017 - Actualidad* ]
+
+- Desarrollo versión Android de GlucosApp y NutrenApp
 - Desarrollo del sitio web [glucosapp.com](http://www.glucosapp.com/) y [puermacorp.es](http://www.puermacorp.es/)
-- Traducción al inglés de los textos de **GlucosApp** y **NutrenApp**
-
-
----
-
-
-## 📚 Educación
-
-### Máster en Gestión y Desarrollo de Aplicaciones Multiplataforma
-
-Universidad Católica de Ávila, España  [ *2016 - 2021* ]
-
-### Grado en Ingeniería de Sonido e Imagen
-
-Escuela Técnica Superior de Ingeniería de Telecomunicaciones (ETSIT), Universidad de Málaga, España  [ *2011 - 2015* ]
-
-### Enseñanzas Superiores de Música, especialidad Piano
-
-Conservatorio Superior de Música de Málaga (CSM Málaga), España  [ *2014 - 2020* ]
-
-### Enseñanzas Profesionales de Música, especialidad Piano
-
-Conservatorio Profesional de Música "Manuel Carra", Málaga, España  [ *2007 - 2014* ]
-
-</br>
-
-## 📚 Formación Adicional
-
-### Especialización de Data Visualization with Tableau
-
-University of California Davis, Coursera - *2021*
-
-### Certificado Profesional de Desarrollador TensorFlow
-
-Deeplearning.ai, Coursera - *2021*
-
-### Especialización de Deep Learning
-
-Deeplearning.ai, Coursera - *2020*
-
-### Certificado Profesional de Data Science
-
-IBM, Coursera - *2020*
-
-### Curso Machine Learning
-
-Stanford, Coursera - *2020*
-
+- Traducción al inglés de los textos de GlucosApp y NutrenApp
 
 ---
 
+### 📚 Educación
 
-## 🗣️ Idiomas
+**Máster en Gestión y Desarrollo de Aplicaciones Multiplataforma**
 
-### 🇪🇸 **Español**
+_Universidad Católica de Ávila, España_  [ *2016 - 2021* ]
+
+**Grado en Ingeniería de Sonido e Imagen**
+
+_Escuela Técnica Superior de Ingeniería de Telecomunicaciones (ETSIT), Universidad de Málaga, España_  [ *2011 - 2015* ]
+
+**Enseñanzas Superiores de Música, especialidad Piano**
+
+_Conservatorio Superior de Música de Málaga (CSM Málaga), España_  [ *2014 - 2020* ]
+
+**Enseñanzas Profesionales de Música, especialidad Piano**
+
+_Conservatorio Profesional de Música "Manuel Carra", Málaga, España_  [ *2007 - 2014* ]
+
+### 📚 Formación Adicional
+
+**Especialización de Data Visualization with Tableau**
+
+_University of California Davis, Coursera_ - *2021*
+
+**Certificado Profesional de Desarrollador TensorFlow**
+
+_Deeplearning.ai, Coursera_ - *2021*
+
+**Especialización de Deep Learning**
+
+_Deeplearning.ai, Coursera_ - *2020*
+
+**Certificado Profesional de Data Science**
+
+_IBM, Coursera_ - *2020*
+
+**Curso Machine Learning**
+
+_Stanford University, Coursera_ - *2020*
+
+---
+
+### 🗣️ Idiomas
+
+🇪🇸 **Español**
 
 Nativo
 
-### 🇬🇧 Inglés
+🇬🇧 **Inglés**
 
 Avanzado - Nivel C1 (Cambridge Assessment English)
 
-### 🇩🇪 Alemán
+🇩🇪 **Alemán**
 
 Básico - Nivel A1
 
-### 🇯🇵 Japonés
+🇯🇵 **Japonés**
 
 Básico - Nivel A1
 
