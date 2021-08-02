@@ -5,8 +5,8 @@ title: Sobre mi
 
 ### Puedes contactar conmigo aquí 👩🏻‍💻
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E88E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](linkedin.com/in/anapuermaruiz)
-[![Twitter](https://img.shields.io/badge/-Twitter-1E88E5?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](twitter.com/apuermaruiz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E88E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/anapuermaruiz)
+[![Twitter](https://img.shields.io/badge/-Twitter-1E88E5?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/apuermaruiz)
 
 
 ## 🛠 TECNOLOGÍAS
