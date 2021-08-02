@@ -2,13 +2,14 @@
 permalink: /about/
 title: Sobre mi
 ---
-## Puedes contactar conmigo aquí 👩🏻‍💻
+
+### Puedes contactar conmigo aquí 👩🏻‍💻
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E88E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](linkedin.com/in/anapuermaruiz)
 [![Twitter](https://img.shields.io/badge/-Twitter-1E88E5?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](twitter.com/apuermaruiz)
 
 
-## 🛠 Skills
+## 🛠 TECNOLOGÍAS
 
 ![GitHub](https://img.shields.io/badge/-GitHub-9E9E9E?style=flat&logo=github&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/-Notion-9E9E9E?style=flat&logo=notion&logoColor=ffffff)
@@ -39,7 +40,7 @@ title: Sobre mi
 
 ---
 
-### 💼 Experiencia Laboral
+## 💼 EXPERIENCIA LABORAL
 
 
 **Junior Software Programmer IA**    <br>
@@ -61,7 +62,8 @@ _Abr 2017 - Actualidad_
 
 ---
 
-### 📚 Educación
+## 📚 EDUCACIÓN
+
 
 **Máster en Gestión y Desarrollo de Aplicaciones Multiplataforma** <br>
 <span style="color:gray">_Universidad Católica de Ávila, España_</span>  [ *2016 - 2021* ]
@@ -75,7 +77,9 @@ _Abr 2017 - Actualidad_
 **Enseñanzas Profesionales de Música, especialidad Piano** <br>
 <span style="color:gray">_Conservatorio Profesional de Música "Manuel Carra", Málaga, España_</span>  [ *2007 - 2014* ]
 
-### 📚 Formación Adicional
+
+## 📚 FORMACIÓN ADICIONAL
+
 
 **Especialización de Data Visualization with Tableau** <br>
 <span style="color:gray">_University of California Davis, Coursera_</span> - *2021*
@@ -94,7 +98,8 @@ _Abr 2017 - Actualidad_
 
 ---
 
-### 🗣️ Idiomas
+## 🗣️ IDIOMAS
+
 
 🇪🇸  **Español** - Nativo
 
