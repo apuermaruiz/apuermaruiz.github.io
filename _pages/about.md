@@ -41,16 +41,14 @@ title: Sobre mi
 
 ### 💼 Experiencia Laboral
 
-**Junior Software Programmer – IA**
-
-<span style="color:gray">**_NASSAT - Internet Satélite en Movimiento_**</span> [ *jun 2021 – Actualidad* ]
+#### **Junior Software Programmer – IA**
+<span style="color:gray">_NASSAT - Internet Satélite en Movimiento_</span> [ *jun 2021 – Actualidad* ]
 
 - Diseño de Interfaz de Usuario
 - Desarrollo Frontend de Aplicación Web
 - Desarrollo de modelos de Inteligencia Articial
 
-**Co-CEO y Web/App Developer**
-
+#### **Co-CEO y Web/App Developer**
 <span style="color:gray">**_PuermaCorp_**</span> [ *Abr 2017 - Actualidad* ]
 
 - Desarrollo versión Android de GlucosApp y NutrenApp
@@ -63,41 +61,41 @@ title: Sobre mi
 
 **Máster en Gestión y Desarrollo de Aplicaciones Multiplataforma**
 
-_Universidad Católica de Ávila, España_  [ *2016 - 2021* ]
+<span style="color:gray">_Universidad Católica de Ávila, España_</span>  [ *2016 - 2021* ]
 
 **Grado en Ingeniería de Sonido e Imagen**
 
-_Escuela Técnica Superior de Ingeniería de Telecomunicaciones (ETSIT), Universidad de Málaga, España_  [ *2011 - 2015* ]
+<span style="color:gray">_Escuela Técnica Superior de Ingeniería de Telecomunicaciones (ETSIT), Universidad de Málaga, España_</span>  [ *2011 - 2015* ]
 
 **Enseñanzas Superiores de Música, especialidad Piano**
 
-_Conservatorio Superior de Música de Málaga (CSM Málaga), España_  [ *2014 - 2020* ]
+<span style="color:gray">_Conservatorio Superior de Música de Málaga (CSM Málaga), España_</span>  [ *2014 - 2020* ]
 
 **Enseñanzas Profesionales de Música, especialidad Piano**
 
-_Conservatorio Profesional de Música "Manuel Carra", Málaga, España_  [ *2007 - 2014* ]
+<span style="color:gray">_Conservatorio Profesional de Música "Manuel Carra", Málaga, España_</span>  [ *2007 - 2014* ]
 
 ### 📚 Formación Adicional
 
 **Especialización de Data Visualization with Tableau**
 
-_University of California Davis, Coursera_ - *2021*
+<span style="color:gray">_University of California Davis, Coursera_</span> - *2021*
 
 **Certificado Profesional de Desarrollador TensorFlow**
 
-_Deeplearning.ai, Coursera_ - *2021*
+<span style="color:gray">_Deeplearning.ai, Coursera_</span> - *2021*
 
 **Especialización de Deep Learning**
 
-_Deeplearning.ai, Coursera_ - *2020*
+<span style="color:gray">_Deeplearning.ai, Coursera_</span> - *2020*
 
 **Certificado Profesional de Data Science**
 
-_IBM, Coursera_ - *2020*
+<span style="color:gray">_IBM, Coursera_</span> - *2020*
 
 **Curso Machine Learning**
 
-_Stanford University, Coursera_ - *2020*
+<span style="color:gray">_Stanford University, Coursera_</span> - *2020*
 
 ---
 
