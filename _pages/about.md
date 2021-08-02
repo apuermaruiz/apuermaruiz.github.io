@@ -10,33 +10,38 @@ title: Sobre mi
 
 ## 🛠 Skills
 
-### 🤖 Data Science / Machine Learning
+### 🤖 Artificial Intelligence / Data Science
 
-Matlab / Octave / Python / SQL Database / Data Science / Machine Learning / Deep Learning / Keras / TensorFlow / Tableau 
+Python / Matlab / Octave / Keras / TensorFlow / SQL Database / Machine Learning / Deep Learning / Neural Networks / Tableau 
 {: .notice--info}
 
 ### 💻 📱 Web/Apps
 
-HTML / CSS / PHP / WordPress / Java / JavaScript / Flask
+Flask / HTML / CSS / PHP / JavaScript / Java / Markdown / WordPress
+{: .notice--info}
+
+### 🖥️  IDE
+PyCharm / Visual Studio / Android Studio
 {: .notice--info}
 
 ### 🖇️ Otros
 
-Notion / Github / Visual Studio / Android Studio / Microsoft Office (Word, Excel, PowerPoint) / Redes sociales 
+Github / Notion / Figma / Miro / Jira / Microsoft Office (Word, Excel, PowerPoint) / Redes sociales 
 {: .notice--info}
 
 ## 💼 Experiencia Laboral
 
 ### Junior Software Programmer – I.A.
 **NASSAT - Internet Satélite en Movimiento** [ *jun 2021 – Actualidad* ]
+- Diseño de Interfaz de Usuario
+- Desarrollo Frontend de Aplicación Web
+- Desarrollo de modelos de Inteligencia Articial
 
 ### Co-CEO y Web/App Developer
 **PuermaCorp** [ *Abr 2017 - Actualidad* ]
 
-- Desarrollo versión Android de **GlucosApp**
-- Desarrollo del sitio web [www.glucosapp.com](http://www.glucosapp.com/)
-- Desarrollo versión Android de **NutrenApp**
-- Desarrollo del sitio web [www.puermacorp.es](http://www.puermacorp.es/)
+- Desarrollo versión Android de **GlucosApp** y **NutrenApp**
+- Desarrollo del sitio web [glucosapp.com](http://www.glucosapp.com/) y [puermacorp.es](http://www.puermacorp.es/)
 - Traducción al inglés de los textos de **GlucosApp** y **NutrenApp**
 
 <br/>
@@ -93,10 +98,14 @@ Nativo
 
 ### 🇬🇧 Inglés
 
-Avanzado - First Certificate in English: Pass at Grade A (Nivel C1)
+Avanzado - Nivel C1 (Cambridge Assessment English)
 
 ### 🇩🇪 Alemán
 
-Básico 
+Básico - Nivel A1
+
+### 🇯🇵 Japonés
+
+Básico - Nivel A1
 
 ---
