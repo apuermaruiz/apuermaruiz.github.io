@@ -10,20 +10,38 @@ title: Sobre mi
 
 ## 🛠 Skills
 
-### 🤖 Artificial Intelligence / Data Science
+![GitHub](https://img.shields.io/badge/-GitHub-9E9E9E?style=flat&logo=github&logoColor=ffffff)
+![Notion](https://img.shields.io/badge/-Notion-9E9E9E?style=flat&logo=notion&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-9E9E9E?style=flat&logo=figma&logoColor=ffffff)
+![Miro](https://img.shields.io/badge/-Miro-9E9E9E?style=flat&logo=miro&logoColor=ffffff)
 
-Python / Matlab / Octave / Keras / TensorFlow / SQL Database / Machine Learning / Deep Learning / Neural Networks / Tableau {: .notice--info}
 
-### 💻 📱 Web/Apps
+![PyCharm](https://img.shields.io/badge/-Pycharm-9E9E9E?style=flat&logo=pycharm&logoColor=ffffff)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-9E9E9E?style=flat&logo=visualstudio&logoColor=ffffff)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-9E9E9E?style=flat&logo=androidstudio&logoColor=ffffff)
+![WordPress](https://img.shields.io/badge/-WordPress-9E9E9E?style=flat&logo=wordpress&logoColor=ffffff)
 
-Flask / HTML / CSS / PHP / JavaScript / Java / Markdown / WordPress {: .notice--info}
 
-### 🖥️  IDE
-PyCharm / Visual Studio / Android Studio {: .notice--info}
+![Octave](https://img.shields.io/badge/-Octave-9E9E9E?style=flat&logo=octave&logoColor=ffffff)
+![Matlab](https://img.shields.io/badge/-Matlab-9E9E9E?style=flat&logo=matlab&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-9E9E9E?style=flat&logo=python&logoColor=ffffff)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-9E9E9E?style=flat&logo=tensorflow&logoColor=ffffff)
+![Keras](https://img.shields.io/badge/-Keras-9E9E9E?style=flat&logo=keras&logoColor=ffffff)
+![Tableau](https://img.shields.io/badge/-Tableau-9E9E9E?style=flat&logo=tableau&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-9E9E9E?style=flat&logo=SQL&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-9E9E9E?style=flat&logo=mongodb&logoColor=ffffff)
 
-### 🖇️ Otros
+![Flask](https://img.shields.io/badge/-Flask-9E9E9E?style=flat&logo=flask&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-9E9E9E?style=flat&logo=HTML5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-9E9E9E?style=flat&logo=CSS3&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-9E9E9E?style=flat&logo=PHP&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-9E9E9E?style=flat&logo=Java&logoColor=ffffff)
+![Javascript](https://img.shields.io/badge/-JavaScript-9E9E9E?style=flat&logo=Javascript&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/-Markdown-9E9E9E?style=flat&logo=markdown&logoColor=ffffff)
 
-Github / Notion / Figma / Miro / Jira / Microsoft Office (Word, Excel, PowerPoint) / Redes sociales  {: .notice--info}
+
+---
+
 
 ## 💼 Experiencia Laboral
 
@@ -40,7 +58,9 @@ Github / Notion / Figma / Miro / Jira / Microsoft Office (Word, Excel, PowerPoin
 - Desarrollo del sitio web [glucosapp.com](http://www.glucosapp.com/) y [puermacorp.es](http://www.puermacorp.es/)
 - Traducción al inglés de los textos de **GlucosApp** y **NutrenApp**
 
-<br/>
+
+---
+
 
 ## 📚 Educación
 
@@ -84,7 +104,9 @@ IBM, Coursera - *2020*
 
 Stanford, Coursera - *2020*
 
-<br/>
+
+---
+
 
 ## 🗣️ Idiomas
 
@@ -104,4 +126,3 @@ Básico - Nivel A1
 
 Básico - Nivel A1
 
----
